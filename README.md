@@ -1,2 +1,2 @@
-# Colab
+# Collab
 colaboracion
